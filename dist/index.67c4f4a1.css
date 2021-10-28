@@ -1,0 +1,129 @@
+.loggedin-div {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+input:focus {
+  border: 1px solid #777;
+}
+
+button:hover {
+  background: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  margin: center;
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 5px;
+  top: 50%;
+  position: center;
+
+  text-shadow: -1px -1px 0px #2196f3, 3px 3px 0px #2196f3, 6px 6px 0px #0d47a1;
+}
+mark {
+  background-color: #c0ffc8;
+}
+
+.main-div {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+input:focus {
+  border: 1px solid #777;
+}
+
+button:hover {
+  background: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+  cursor: pointer;
+}
+
+body {
+  background: #fff;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Baloo Tamma", cursive;
+  background: #78f4ff;
+  font-size: 16px;
+}
+
+input {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  border: 1px solid rgb(255, 190, 190);
+  border-radius: 5px;
+  background: #fff;
+  padding: 15px;
+  outline: none;
+  width: 100%;
+  margin-bottom: 20px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+}
+
+button {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  background: #5d8ffc;
+  color: #fff;
+  border: 1px solid #5d8ffc;
+  border-radius: 5px;
+  padding: 15px;
+  width: 30%;
+  margin: auto;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+}
+
+.loggedin-div {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+input:focus {
+  border: 1px solid #777;
+}
+
+button:hover {
+  background: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  margin: center;
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 5px;
+  top: 50%;
+  position: center;
+
+  text-shadow: -1px -1px 0px #2196f3, 3px 3px 0px #2196f3, 6px 6px 0px #0d47a1;
+}
+mark {
+  background-color: #c0ffc8;
+}
+
+/*# sourceMappingURL=index.67c4f4a1.css.map */

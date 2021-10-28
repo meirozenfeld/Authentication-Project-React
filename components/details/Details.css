@@ -1,0 +1,34 @@
+.loggedin-div {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+input:focus {
+  border: 1px solid #777;
+}
+
+button:hover {
+  background: #fff;
+  color: #5d8ffc;
+  border: 1px solid #5d8ffc;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  margin: center;
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 5px;
+  top: 50%;
+  position: center;
+
+  text-shadow: -1px -1px 0px #2196f3, 3px 3px 0px #2196f3, 6px 6px 0px #0d47a1;
+}
+mark {
+  background-color: #c0ffc8;
+}

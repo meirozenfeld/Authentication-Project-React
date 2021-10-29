@@ -14,7 +14,11 @@ Email: avi@gmail.com && Password: avi123<br></br>
 Email: efrat@gmail.com && Password: efrat123<br></br>
 Email: tamar@gmail.com && Password: tamar123<br></br>
 Every user has five attributes : name, email, password, birth date and address.<br></br>
-Validation: The email address must be written correctly and the password is at least 6 characters and it must to contains numbers and letters.
+Validation: The email address must be written correctly and the password is at least 6 characters and it must to contains numbers and letters.<br></br>
+
+about the deploy:
+unfortunately i had some issues with the deploy. i tried all night without success =(
+
 
 
 

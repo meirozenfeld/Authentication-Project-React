@@ -8,11 +8,11 @@ The project uses React framework technology, firebase data base (firestore for d
 - Run: npx parcel .\index.html
 - Go to address http://localhost:1234 <br></br><br></br>
 There are five users in the firebase allready:<br></br>
-Email: meir@gmail.com Password: meir123<br></br>
-Email: noam@gmail.com Password: noam123<br></br>
-Email: avi@gmail.com Password: avi123<br></br>
-Email: efrat@gmail.com Password: efrat123<br></br>
-Email: tamar@gmail.com Password: tamar123<br></br>
+Email: meir@gmail.com && Password: meir123<br></br>
+Email: noam@gmail.com && Password: noam123<br></br>
+Email: avi@gmail.com && Password: avi123<br></br>
+Email: efrat@gmail.com && Password: efrat123<br></br>
+Email: tamar@gmail.com && Password: tamar123<br></br>
 Every user has five attributes : name, email, password, birth date and address.<br></br>
 Validation: The email address must be written correctly and the password is at least 6 characters and it must to contains numbers and letters.
 

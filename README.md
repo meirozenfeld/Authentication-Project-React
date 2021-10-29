@@ -7,7 +7,7 @@ The project uses React framework technology, firebase data base (firestore for d
 - Run: npm install<br></br>
 - Run: npx parcel .\index.html<br></br>
 - Go to address http://localhost:1234 <br></br><br></br>
-There are five users in the firebase allready:<br></br>
+There are five users in the firebase already:<br></br>
 Email: meir@gmail.com && Password: meir123<br></br>
 Email: noam@gmail.com && Password: noam123<br></br>
 Email: avi@gmail.com && Password: avi123<br></br>

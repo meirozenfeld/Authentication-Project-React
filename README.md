@@ -1,5 +1,5 @@
 # Authentication-Project-React
-<h2>Welcome to my react authentication project!<h2/>
+<h2>Welcome to my react authentication project!</h2>
 
 This project made by Meir Rosefeld for moveo company.
 
